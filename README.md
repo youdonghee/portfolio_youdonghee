@@ -12,12 +12,12 @@ npx tailwindcss init -p
 // tailwind.config.js
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-    content: ['./src/**/*.{html,js,jsx}'], // 이부분추가
-    theme: {
-        extend: {},
-    },
-    plugins: [],
-}
+  content: ["./src/**/*.{html,js,jsx}"], // 이부분추가
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
 ```
 
 ```css
@@ -68,3 +68,5 @@ build:{
     "deploy": "gh-pages -d build"
 }
 ```
+
+배포
