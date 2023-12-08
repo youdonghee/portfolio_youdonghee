@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio_youdonghee/static/css/main.2ff9e443.css",
+    "main.js": "/portfolio_youdonghee/static/js/main.352e218e.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio_youdonghee/static/js/787.7da95b79.chunk.js",
+    "index.html": "/portfolio_youdonghee/index.html",
+    "main.2ff9e443.css.map": "/portfolio_youdonghee/static/css/main.2ff9e443.css.map",
+    "main.352e218e.js.map": "/portfolio_youdonghee/static/js/main.352e218e.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio_youdonghee/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ff9e443.css",
+    "static/js/main.352e218e.js"
+  ]
+}
