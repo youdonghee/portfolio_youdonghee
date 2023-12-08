@@ -142,7 +142,7 @@ const Projects = () => {
           <div className="w-full">
             <h2 className="flex flex-row items-center gap-[8px] text-[16px] text-slate-800 md:text-black md:text-[24px] font-semibold pb-[16px]">
               NFT 마켓 플레이스(협얍프로젝트){" "}
-              <a href="https://naver.com">
+              <a href="#" target={"_blank"}>
                 <FaExternalLinkAlt />
               </a>
             </h2>
@@ -208,7 +208,7 @@ const Projects = () => {
           <div className="w-full">
             <h2 className="flex flex-row items-center gap-[8px] text-[16px] text-slate-800 md:text-black md:text-[24px] font-semibold pb-[16px]">
               그림 일심동체{" "}
-              <a href="https://www.bounswap.site/" target={"_blank"}>
+              <a href="#" target={"_blank"}>
                 <FaExternalLinkAlt />
               </a>
             </h2>
@@ -270,7 +270,7 @@ const Projects = () => {
           <div className="w-full">
             <h2 className="flex flex-row items-center gap-[8px] text-[16px] text-slate-800 md:text-black md:text-[24px] font-semibold pb-[16px]">
               주식게임 Mo & Do{" "}
-              <a href="https://www.bounswap.site/" target={"_blank"}>
+              <a href="#" target={"_blank"}>
                 <FaExternalLinkAlt />
               </a>
             </h2>
@@ -302,7 +302,7 @@ const Projects = () => {
       </Modal>
 
       <Modal show={isShowingModal2} onCloseButtonClick={toggleModal2}>
-        test2222
+        test2
       </Modal>
       <Modal show={isShowingModal3} onCloseButtonClick={toggleModal2}>
         test3

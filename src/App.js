@@ -28,7 +28,6 @@ function App() {
 
         {/* footer */}
         <Footer />
-        {/* 배포중 */}
       </div>
     </div>
   );
